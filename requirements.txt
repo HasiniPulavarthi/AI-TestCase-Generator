@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-User Login Feature:
-- Email required
-- Password minimum 8 characters
-- Forgot password available
-=======
-User Login Feature:
-- Email required
-- Password minimum 8 characters
-- Forgot password available
->>>>>>> dda169716e0320eedf243481602aef046d06e129
-- User should receive an error for invalid credentials
+streamlit
+pandas
+google-genai
+openpyxl
