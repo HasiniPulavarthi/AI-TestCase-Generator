@@ -10,7 +10,7 @@ import time
 # -------------------------------
 
 client = genai.Client(
-    api_key="AIzaSyAkaZSZjsQr6cHtM_apNAJ0jvuVuilzLfU"
+    api_key="Gemini_API_Key"
 )
 
 # -------------------------------
