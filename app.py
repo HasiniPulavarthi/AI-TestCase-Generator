@@ -10,7 +10,11 @@ import time
 # -------------------------------
 
 client = genai.Client(
+<<<<<<< HEAD
     api_key="AIzaSyAkaZSZjsQr6cHtM_apNAJ0jvuVuilzLfU"
+=======
+    api_key="Gemini_API_Key"
+>>>>>>> dda169716e0320eedf243481602aef046d06e129
 )
 
 # -------------------------------
@@ -271,4 +275,8 @@ if "df" in st.session_state:
         data=excel_data,
         file_name="test_cases.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+<<<<<<< HEAD
     )
+=======
+    )
+>>>>>>> dda169716e0320eedf243481602aef046d06e129
