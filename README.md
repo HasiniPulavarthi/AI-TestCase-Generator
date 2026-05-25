@@ -49,15 +49,15 @@ Users can upload requirement files or manually enter requirements and download g
 
 ### Home Page
 
-![Home](Screenshots/home.png)
+![Home](Screen shots/home.png)
 
 ### Generated Output - Part 1
 
-![Output Part 1](Screenshots/output(1).png)
+![Output Part 1](Screen shots/output(1).png)
 
 ### Generated Output - Part 2
 
-![Output Part 2](Screenshots/output(2).png)
+![Output Part 2](Screen shots/output(2).png)
 
 ---
 
