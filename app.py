@@ -275,8 +275,4 @@ if "df" in st.session_state:
         data=excel_data,
         file_name="test_cases.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-<<<<<<< HEAD
     )
-=======
-    )
->>>>>>> dda169716e0320eedf243481602aef046d06e129
