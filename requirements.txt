@@ -1,0 +1,5 @@
+User Login Feature:
+- Email required
+- Password minimum 8 characters
+- Forgot password available
+- User should receive an error for invalid credentials
